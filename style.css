@@ -1,0 +1,166 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+#logo
+{
+   height: 50px;
+}
+.option
+{
+    padding-left: 150px;
+    padding-right: 200px;
+}
+.homey
+{
+    margin-right: 50px;
+}
+.button
+{
+display: flex;
+flex-direction: row;
+padding: 12px 12px;
+position: static;
+width: auto;
+height: 38px;
+left: 1201px;
+top: 25px;
+background: #21B573;
+border-radius: 33px;
+color: #ffffff;
+margin-bottom: 20px;
+}
+.bg-same
+{
+    background-color: #F0FFF0;
+}
+.image
+{
+    height: 100%;
+    width: 100%;
+}
+#tb-text1
+{
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+color: #FD511A;
+}
+#tb-highlighted-text
+{
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+/* line-height: 70px; */
+margin-bottom: 20px;
+}
+#tb-text3
+{
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+color: #6C6B6B;
+}
+.top-banner-text
+{
+    padding-left: 150px;
+    padding-top: 200px;
+}
+.card-deck
+{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 200px;
+}
+.card-img-top
+{
+width: 68px;
+height: 76px;
+left: 1141px;
+top: 677px;
+margin-left: 30%;
+margin-right: 30%;
+margin-top: 10%;
+
+}
+.status-card
+{
+margin-left: 10%;
+margin-right: 10%;
+position: static;
+background: #F8FFFB;
+border-radius: 10px;
+border: none;
+}
+.status-card-text
+{
+    text-align: center;
+}
+.card-text
+{
+    color: #6C6B6B;
+}
+#deck2
+{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+.logo-calendar
+{
+    float: left;
+    width: 8.33%;
+    height: 12.5%;
+}
+#people
+{
+    float: right;
+}
+.logo-people
+{
+    float: right;
+    width: 8.33%;
+    height: 12.5%;
+}
+.testimonial-image
+{
+    height: 200px;
+    width: 200px;
+    margin-left: 150px;
+    margin-bottom: 150px;
+}
+.Grid
+{
+    padding-top: 5%;
+    background-color:#282531 ;
+    color: #ffffff;
+    padding-bottom: 5%;
+    padding-left: 5%;
+}
+#grid-view
+{
+    margin-left: 20px;
+    color: #ffffff;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+a:hover
+{
+    text-decoration: none;
+    color: white;   
+}
+footer
+{
+    background-color: #282531 ;
+}
+footer p
+{
+    color: #ffffff;
+    text-align: center;
+}
