@@ -130,13 +130,9 @@ border: none;
     height: 200px;
     width: 200px;
     margin-left: 90px;
+    margin-right: 10px;
     margin-bottom: 150px;
 }
-/* .testimonial-text
-{
-    margin-left: 20px;
-    /* margin-bottom: 150px; 
-} */
 .Grid
 {
     padding-top: 5%;
